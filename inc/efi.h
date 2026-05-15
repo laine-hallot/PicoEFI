@@ -72,6 +72,7 @@ extern "C" {
 #include "efi/efitcp.h"
 #include "efi/efipoint.h"
 #include "efi/efishell.h"
+#include "efi/efihii.h"
 
 #ifdef __cplusplus
 }
